@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "Medicine-images/Napa-Extend.jpg",
+		"name": "NAPA \"",
+		"price": "10.00",
+		"Quantity": 8,
+		"Code": "203"
+	},
+	{
+		"id": 2,
+		"image": "Medicine-images/Napa-Extra.jpg",
+		"name": "NAPA EXTRA\"",
+		"price": "15.00",
+		"Quantity": 18,
+		"Code": "433"
+	},
+	{
+		"id": 3,
+		"image": "Medicine-images/Napa-Medicine.jpg",
+		"name": "NAPA Extend\"",
+		"price": "20.00",
+		"Quantity": 57,
+		"Code": "012"
+	},
+	{
+		"id": 4,
+		"image": "Food/Fuchka.jpg",
+		"name": "Fuchka",
+		"price": "10.00",
+		"Quantity":"Kha joto paros",
+		"Code": "0127"
+	},
+	{
+		"id": 5,
+		"image": "Food/Jal Muri.jpg",
+		"name": "Jal Muri",
+		"price": "40.00",
+		"Quantity":"Ak dam 100",
+		"Code": "1233"
+	},
+	{
+		"id": 6,
+		"image": "Food/Tea.jpg",
+		"name": "Tea",
+		"price": "50.00",
+		"Quantity":" Mojaa ",
+		"Code": "4478"
+	}
+]
